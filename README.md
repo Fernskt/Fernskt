@@ -91,9 +91,9 @@ Fuera del trabajo, construyo proyectos propios con visión de producto: desde bo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fernskt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernskt&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -113,8 +113,8 @@ Fuera del trabajo, construyo proyectos propios con visión de producto: desde bo
 
 Si tenés un proyecto interesante, una idea de producto o simplemente querés conectar:
 
-📩 **[tu@email.com](mailto:tu@email.com)**
-🌐 **[tu-portfolio.com](https://github.com)**
+📩 **[fernando.hasperue@gmail.com](mailto:fernando.hasperue@gmail.com)**
+🌐 **[www.hasperue.com](https://www.hasperue.com)**
 
 ---
 
