@@ -59,24 +59,24 @@ Fuera del trabajo, construyo proyectos propios con visión de producto: desde bo
 
 ## 📦 Proyectos Destacados
 
-### 🛍️ [Palo Glow](https://github.com)
-> Ecommerce de accesorios con React + Vite, SEO trabajado con Helmet, Open Graph, y checkout por WhatsApp.
+### 💈 [Barbería Bot / App de Turnos](https://github.com/Fernskt/Barber-bot-API)
+> Sistema de reservas para barberías con bot de WhatsApp. Cancelación, reprogramación y menús interactivos. Pensado para escalar como SaaS.
+
+`NestJS` `Prisma` `WhatsApp Cloud API` `TypeScript`
+
+---
+
+### 🛍️ [Palo Glow](https://github.com/Fernskt/Palo-Glow)
+> Ecommerce de accesorios con React + Vite, SEO trabajado con Helmet, Open Graph, integración con Mercado Pago y Correo Argentino y checkout por WhatsApp.
 
 `React` `Vite` `TypeScript` `SEO` `WhatsApp API`
 
 ---
 
-### 🎬 [Pelis React App](https://github.com)
+### 🎬 [Pelis React App](https://github.com/Fernskt/pelis-app)
 > App de películas integrada con TMDB. Trailers, géneros, ratings, banners y búsqueda. Arquitectura limpia con custom hooks.
 
 `React` `Vite` `TypeScript` `TMDB API` `RSuite`
-
----
-
-### 💈 [Barbería Bot / App de Turnos](https://github.com)
-> Sistema de reservas para barberías con bot de WhatsApp. Cancelación, reprogramación y menús interactivos. Pensado para escalar como SaaS.
-
-`NestJS` `Prisma` `WhatsApp Cloud API` `TypeScript`
 
 ---
 
@@ -84,18 +84,6 @@ Fuera del trabajo, construyo proyectos propios con visión de producto: desde bo
 > Desarrollo y mantenimiento de sistemas de logística de escala nacional. Historial de piezas, exportaciones masivas (100k+ filas), streaming y performance avanzada.
 
 `React` `NestJS` `SQL Server` `.NET` `TanStack Query`
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fernskt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernskt&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
