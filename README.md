@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy **Fer**
+# 👋 Hola, soy **Fernando**
 ### Fullstack Developer · Frontend Focused · Argentina 🇦🇷
 
 *Construyo productos reales. Código limpio, arquitectura sólida, mentalidad de crecimiento.*
@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre mí
 
-Soy desarrollador Fullstack con foco fuerte en **Frontend**. Vengo de un camino no convencional — operación de planta a sistemas — y eso me dio una perspectiva diferente: entiendo los problemas del negocio desde adentro.
+Soy desarrollador Fullstack con foco fuerte en **Frontend**. Vengo de un camino no convencional — operación logística de planta a sistemas — y eso me dio una perspectiva diferente: entiendo los problemas del negocio desde adentro.
 
 Trabajo en **OCA** desarrollando y manteniendo plataformas logísticas complejas: historiales de piezas, exportaciones masivas, performance en consultas sobre millones de registros.
 
